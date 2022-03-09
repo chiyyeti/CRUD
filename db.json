@@ -1,0 +1,138 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "gana",
+      "lastName": "garla",
+      "email": "gana@gmail.com",
+      "mobile": 8978274486,
+      "salary": 35000
+    },
+    {
+      "id": 3,
+      "firstName": "Manu",
+      "lastName": "Siddavatam",
+      "email": "manu@gmail.com",
+      "mobile": 6300859563,
+      "salary": 35000
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "sunny",
+      "email": "sunny@gmail.com",
+      "password": "sunny1234",
+      "mobile": 6300689648,
+      "id": 1
+    },
+    {
+      "fullname": "sunny",
+      "email": "sunny@gmail.com",
+      "password": "sunny1234",
+      "mobile": 6300689648,
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 4
+    },
+    {
+      "fullname": "sunny",
+      "email": "sunny@gmail.com",
+      "password": "sunny1234",
+      "mobile": 6300689648,
+      "id": 5
+    },
+    {
+      "fullname": "Arun",
+      "email": "arjun@gmail.com",
+      "password": "arjun1234",
+      "mobile": 6300318120,
+      "id": 6
+    },
+    {
+      "fullname": "dev",
+      "email": "hjgjhdhj@gmail.com",
+      "password": "123456",
+      "mobile": 2652416,
+      "id": 7
+    },
+    {
+      "fullname": "efcefef",
+      "email": "deef@gf.com",
+      "password": "1234",
+      "mobile": 23151,
+      "id": 8
+    },
+    {
+      "fullname": "test",
+      "email": "abc@test.com",
+      "password": "123456",
+      "mobile": 12233545,
+      "id": 9
+    },
+    {
+      "fullname": "sunny",
+      "email": "sunny@gmail.com",
+      "password": "sunny1234",
+      "mobile": 6300689648,
+      "id": 10
+    },
+    {
+      "fullname": "sunny",
+      "email": "sunny@gmail.com",
+      "password": "sunny1234",
+      "mobile": 6300689648,
+      "id": 11
+    },
+    {
+      "fullname": "sunny",
+      "email": "sunny@gmail.com",
+      "password": "sunny123456",
+      "mobile": 6300689648,
+      "id": 12
+    },
+    {
+      "fullname": "Arun",
+      "email": "arjun@gmail.com",
+      "password": "123456",
+      "mobile": 326561651654,
+      "id": 13
+    },
+    {
+      "fullname": "ddwd",
+      "email": "arjun@gmail.com",
+      "password": "s",
+      "mobile": 651564,
+      "id": 14
+    },
+    {
+      "fullname": "sunny",
+      "email": "sunny@gmail.com",
+      "password": "sunny123456",
+      "mobile": 6300689648,
+      "id": 15
+    },
+    {
+      "fullname": "sunny",
+      "email": "sunny@gmail.com",
+      "password": "123456",
+      "mobile": 6300689648,
+      "id": 16
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
